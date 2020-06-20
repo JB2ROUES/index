@@ -1,0 +1,34 @@
+/* BLUR : Blur */
+
+#Blur {
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    }
+    
+    /* BLUR : Header / En-Tête */
+    
+    #HeaderBlur {
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    }
+        
+    /* BLUR : Fond */   
+        
+    #FondBlur {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    }
+        
+    /* BLUR : Basic */   
+        
+    #BasicBlur {
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    }
+    
+    /* BLUR : Pour photo */   
+        
+    #BlurPicture {
+    -webkit-backdrop-filter: blur(1px);
+    backdrop-filter: blur(1px);
+    }
