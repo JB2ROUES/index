@@ -3,3 +3,4 @@ ErrorDocument 403 /403.html
 ErrorDocument 500 /500.html
 RewriteEngine on
 RewriteRule ^devis\.html$ /devis.php [L]
+AddType application/x-httpd-php .htm .html
